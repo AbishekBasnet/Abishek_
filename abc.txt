@@ -1,4 +1,8 @@
 hello 
 everyone 
 i am abishek basnet and i am from nepal
+<<<<<<< HEAD
 hello i am good and wbus(change234)
+=======
+hello i am good and wbus(change1)
+>>>>>>> main
